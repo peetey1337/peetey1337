@@ -41,6 +41,7 @@ Example projects I plan to publish:
 ## 🔎 Pinned projects
 - [web-scraper](https://github.com/Peetey1337/data_scraper_selenium)
 - [sales-analysis](https://github.com/Peetey1337/Masters-project-sales-analysis)
+- [credit-churn-project](https://github.com/Peetey1337/Credit_churn_project)
 
 I will add more when I finish them!
 
